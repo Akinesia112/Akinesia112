@@ -1,2 +1,7 @@
 # Shih_Yu_Lai
-Hello! I'm Shih-Yu.
+
+👋 Hi, I am Shih-Yu, Lai. I am pursuing my studies at National Cheng Kung University, actively engaging in multiple research projects in **Artificial Intelligence**, **Robotics**, and **Human-Computer Interaction**. Specifically, I focus on their applications in **Computer Vision**, **Computer Graphics**, **Digital Fabrication**, **Urban Computing**, and **Affective Computing**. My primary research goal and interest lie in exploring the intersection of computer graphics, human-computer interaction, and multimedia within the field of Design Engineering. I am "An engineer assisting designers in realizing their visions." 
+
+🧑‍🎨 My practical experience in computer science, robotics, and various design domains allows me to truly understand the needs of users in the design industry, enabling me to develop highly applicable information systems and tools. These research areas enable me to draw knowledge and techniques from various fields, fostering a holistic and innovative approach to interdisciplinary problem-solving.
+
+💻 I am a Python enthusiast who is also keen to learn other technical skills. I've had the opportunity to serve as an application system in various technical roles, which has provided me with a strong familiarity with and in developing user services. Aside from that, I also possess moderate frontend/data sciences skills including tools like C++, Matlab, OpenGL, Unity 3D, ROS/ROS2, Fushion360, HTML/CSS/JavaScript, AutoCAD, Rhinoceros, and such.
